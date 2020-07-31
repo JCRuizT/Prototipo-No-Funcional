@@ -1,0 +1,236 @@
+var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWidth="1024" deviceHeight="768">\
+    <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devWeb canvas firer commentable non-processed" alignment="left" name="Template 1" width="1024" height="768">\
+    <div id="backgroundBox"></div>\
+    <div id="alignmentBox">\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1596227017292.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1596227017292-ie.css" /><![endif]-->\
+      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1596227017292-ie8.css" /><![endif]-->\
+      </div>\
+      <div id="loadMark"></div>\
+    </div>\
+    <div id="s-7da4086e-e16c-4917-ac48-9fd743369924" class="screen growth-both devWeb canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="VISTA FICHA" width="1024" height="768">\
+    <div id="backgroundBox"></div>\
+    <div id="alignmentBox">\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/7da4086e-e16c-4917-ac48-9fd743369924-1596227017292.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/7da4086e-e16c-4917-ac48-9fd743369924-1596227017292-ie.css" /><![endif]-->\
+      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/7da4086e-e16c-4917-ac48-9fd743369924-1596227017292-ie8.css" /><![endif]-->\
+      <div id="s-Paragraph_4" class="pie richtext firer ie-background commentable non-processed"   datasizewidth="971px" datasizeheight="50px" dataX="43" dataY="144" >\
+        <div class="backgroundLayer"></div>\
+        <div class="paddingLayer">\
+          <div class="clipping">\
+            <div class="content">\
+              <div class="valign">\
+                <span id="rtr-s-Paragraph_4_0">TDISCOM XX &nbsp;- &nbsp;RESULTADOS ASIGNADOS &nbsp; </span>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+      </div>\
+      <div id="s-Group_2" class="group firer ie-background commentable non-processed" datasizewidth="994px" datasizeheight="70px" dataX="-749" dataY="52" >\
+        <div id="s-Rectangle_4" class="pie rectangle firer commentable non-processed"   datasizewidth="1px" datasizeheight="70px" dataX="0" dataY="0" >\
+         <div class="backgroundLayer"></div>\
+         <div class="paddingLayer">\
+           <div class="clipping">\
+             <div class="content">\
+               <div class="valign">\
+                 <span id="rtr-s-Rectangle_4_0"></span>\
+               </div>\
+             </div>\
+           </div>\
+         </div>\
+        </div>\
+        <div id="s-Rectangle_5" class="pie rectangle firer mouseenter mouseleave mousedown mouseup click commentable non-processed"   datasizewidth="160px" datasizeheight="43px" dataX="834" dataY="13" >\
+         <div class="backgroundLayer"></div>\
+         <div class="paddingLayer">\
+           <div class="clipping">\
+             <div class="content">\
+               <div class="valign">\
+                 <span id="rtr-s-Rectangle_5_0">VOLVER</span>\
+               </div>\
+             </div>\
+           </div>\
+         </div>\
+        </div>\
+      </div>\
+      <div id="s-Feature-list" class="group firer ie-background commentable non-processed" datasizewidth="1024px" datasizeheight="478px" dataX="0" dataY="216" >\
+        <div id="s-Bg" class="pie rectangle firer commentable non-processed"   datasizewidth="1024px" datasizeheight="458px" dataX="0" dataY="20" >\
+         <div class="backgroundLayer"></div>\
+         <div class="paddingLayer">\
+           <div class="clipping">\
+             <div class="content">\
+               <div class="valign">\
+                 <span id="rtr-s-Bg_0"></span>\
+               </div>\
+             </div>\
+           </div>\
+         </div>\
+        </div>\
+        <div id="s-Title" class="pie label singleline autofit firer ie-background commentable non-processed"   datasizewidth="10px" datasizeheight="59px" dataX="244" dataY="0" ><div class="backgroundLayer"></div><div class="paddingLayer"><div class="content"><div class="valign"><span id="rtr-s-Title_0"></span></div></div></div></div>\
+        <div id="s-Image_1" class="pie image lockV firer ie-background commentable non-processed"   datasizewidth="17px" datasizeheight="14px" dataX="68" dataY="133" aspectRatio="0.8235294"   alt="image" systemName="./images/3b2611a7-56be-48b6-9907-75a720351910.svg" overlay="#B2B2B2">\
+            <?xml version="1.0" encoding="UTF-8"?>\
+            <svg preserveAspectRatio=\'none\' width="15px" height="12px" viewBox="0 0 15 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">\
+                <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->\
+                <title>check</title>\
+                <desc>Created with Sketch.</desc>\
+                <defs></defs>\
+                <g id="s-Image_1-Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">\
+                    <g id="s-Image_1-Components" transform="translate(-376.000000, -645.000000)" fill="#A7C15B">\
+                        <g id="s-Image_1-check" transform="translate(376.000000, 645.000000)">\
+                            <path d="M0.173076923,6.6 C0.0576923077,6.48 0,6.3 0,6.18 C0,6.06 0.0576923077,5.88 0.173076923,5.76 L0.980769231,4.92 C1.21153846,4.68 1.55769231,4.68 1.78846154,4.92 L1.84615385,4.98 L5.01923077,8.52 C5.13461538,8.64 5.30769231,8.64 5.42307692,8.52 L13.1538462,0.18 L13.2121154,0.18 C13.4423077,-0.06 13.7890385,-0.06 14.0192308,0.18 L14.8269231,1.02 C15.0576923,1.26 15.0576923,1.62 14.8269231,1.86 L5.59615385,11.82 C5.48076923,11.94 5.36538462,12 5.19230769,12 C5.01923077,12 4.90384615,11.94 4.78846154,11.82 L0.288461538,6.78 L0.173076923,6.6 Z" id="s-Image_1-Fill-1"></path>\
+                        </g>\
+                    </g>\
+                </g>\
+            </svg>\
+        </div>\
+        <div id="s-Paragraph_2" class="pie richtext autofit firer ie-background commentable non-processed"   datasizewidth="139px" datasizeheight="54px" dataX="94" dataY="171" >\
+          <div class="backgroundLayer"></div>\
+          <div class="paddingLayer">\
+            <div class="clipping">\
+              <div class="content">\
+                <div class="valign">\
+                  <span id="rtr-s-Paragraph_2_0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. </span>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+        <div id="s-Paragraph_3" class="pie richtext autofit firer click ie-background commentable non-processed"   datasizewidth="99px" datasizeheight="30px" dataX="97" dataY="130" >\
+          <div class="backgroundLayer"></div>\
+          <div class="paddingLayer">\
+            <div class="clipping">\
+              <div class="content">\
+                <div class="valign">\
+                  <span id="rtr-s-Paragraph_3_0">REQUISITO APRENDIZAJE 1</span>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+        <div id="s-Image_2" class="pie image lockV firer ie-background commentable non-processed"   datasizewidth="17px" datasizeheight="14px" dataX="68" dataY="272" aspectRatio="0.8235294"   alt="image" systemName="./images/936aa007-8daf-4221-8bd6-79e837112bfb.svg" overlay="#B2B2B2">\
+            <?xml version="1.0" encoding="UTF-8"?>\
+            <svg preserveAspectRatio=\'none\' width="15px" height="12px" viewBox="0 0 15 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">\
+                <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->\
+                <title>check</title>\
+                <desc>Created with Sketch.</desc>\
+                <defs></defs>\
+                <g id="s-Image_2-Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">\
+                    <g id="s-Image_2-Components" transform="translate(-376.000000, -645.000000)" fill="#A7C15B">\
+                        <g id="s-Image_2-check" transform="translate(376.000000, 645.000000)">\
+                            <path d="M0.173076923,6.6 C0.0576923077,6.48 0,6.3 0,6.18 C0,6.06 0.0576923077,5.88 0.173076923,5.76 L0.980769231,4.92 C1.21153846,4.68 1.55769231,4.68 1.78846154,4.92 L1.84615385,4.98 L5.01923077,8.52 C5.13461538,8.64 5.30769231,8.64 5.42307692,8.52 L13.1538462,0.18 L13.2121154,0.18 C13.4423077,-0.06 13.7890385,-0.06 14.0192308,0.18 L14.8269231,1.02 C15.0576923,1.26 15.0576923,1.62 14.8269231,1.86 L5.59615385,11.82 C5.48076923,11.94 5.36538462,12 5.19230769,12 C5.01923077,12 4.90384615,11.94 4.78846154,11.82 L0.288461538,6.78 L0.173076923,6.6 Z" id="s-Image_2-Fill-1"></path>\
+                        </g>\
+                    </g>\
+                </g>\
+            </svg>\
+        </div>\
+        <div id="s-Paragraph_5" class="pie richtext autofit firer ie-background commentable non-processed"   datasizewidth="139px" datasizeheight="54px" dataX="94" dataY="310" >\
+          <div class="backgroundLayer"></div>\
+          <div class="paddingLayer">\
+            <div class="clipping">\
+              <div class="content">\
+                <div class="valign">\
+                  <span id="rtr-s-Paragraph_5_0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. </span>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+        <div id="s-Paragraph_6" class="pie richtext autofit firer click ie-background commentable non-processed"   datasizewidth="99px" datasizeheight="30px" dataX="97" dataY="269" >\
+          <div class="backgroundLayer"></div>\
+          <div class="paddingLayer">\
+            <div class="clipping">\
+              <div class="content">\
+                <div class="valign">\
+                  <span id="rtr-s-Paragraph_6_0">REQUISITO APRENDIZAJE2</span>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+        <div id="s-Image_3" class="pie image lockV firer ie-background commentable non-processed"   datasizewidth="17px" datasizeheight="14px" dataX="651" dataY="149" aspectRatio="0.8235294"   alt="image" systemName="./images/da599a79-6932-402c-8340-700c41d444ad.svg" overlay="#B2B2B2">\
+            <?xml version="1.0" encoding="UTF-8"?>\
+            <svg preserveAspectRatio=\'none\' width="15px" height="12px" viewBox="0 0 15 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">\
+                <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->\
+                <title>check</title>\
+                <desc>Created with Sketch.</desc>\
+                <defs></defs>\
+                <g id="s-Image_3-Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">\
+                    <g id="s-Image_3-Components" transform="translate(-376.000000, -645.000000)" fill="#A7C15B">\
+                        <g id="s-Image_3-check" transform="translate(376.000000, 645.000000)">\
+                            <path d="M0.173076923,6.6 C0.0576923077,6.48 0,6.3 0,6.18 C0,6.06 0.0576923077,5.88 0.173076923,5.76 L0.980769231,4.92 C1.21153846,4.68 1.55769231,4.68 1.78846154,4.92 L1.84615385,4.98 L5.01923077,8.52 C5.13461538,8.64 5.30769231,8.64 5.42307692,8.52 L13.1538462,0.18 L13.2121154,0.18 C13.4423077,-0.06 13.7890385,-0.06 14.0192308,0.18 L14.8269231,1.02 C15.0576923,1.26 15.0576923,1.62 14.8269231,1.86 L5.59615385,11.82 C5.48076923,11.94 5.36538462,12 5.19230769,12 C5.01923077,12 4.90384615,11.94 4.78846154,11.82 L0.288461538,6.78 L0.173076923,6.6 Z" id="s-Image_3-Fill-1"></path>\
+                        </g>\
+                    </g>\
+                </g>\
+            </svg>\
+        </div>\
+        <div id="s-Paragraph_7" class="pie richtext autofit firer ie-background commentable non-processed"   datasizewidth="139px" datasizeheight="54px" dataX="677" dataY="187" >\
+          <div class="backgroundLayer"></div>\
+          <div class="paddingLayer">\
+            <div class="clipping">\
+              <div class="content">\
+                <div class="valign">\
+                  <span id="rtr-s-Paragraph_7_0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. </span>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+        <div id="s-Paragraph_8" class="pie richtext autofit firer click ie-background commentable non-processed"   datasizewidth="99px" datasizeheight="30px" dataX="680" dataY="146" >\
+          <div class="backgroundLayer"></div>\
+          <div class="paddingLayer">\
+            <div class="clipping">\
+              <div class="content">\
+                <div class="valign">\
+                  <span id="rtr-s-Paragraph_8_0">REQUISITO APRENDIZAJE 3</span>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+        <div id="s-Image_4" class="pie image lockV firer ie-background commentable non-processed"   datasizewidth="17px" datasizeheight="14px" dataX="651" dataY="288" aspectRatio="0.8235294"   alt="image" systemName="./images/4132e7b6-ae39-4b54-8216-3440832c127c.svg" overlay="#B2B2B2">\
+            <?xml version="1.0" encoding="UTF-8"?>\
+            <svg preserveAspectRatio=\'none\' width="15px" height="12px" viewBox="0 0 15 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">\
+                <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->\
+                <title>check</title>\
+                <desc>Created with Sketch.</desc>\
+                <defs></defs>\
+                <g id="s-Image_4-Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">\
+                    <g id="s-Image_4-Components" transform="translate(-376.000000, -645.000000)" fill="#A7C15B">\
+                        <g id="s-Image_4-check" transform="translate(376.000000, 645.000000)">\
+                            <path d="M0.173076923,6.6 C0.0576923077,6.48 0,6.3 0,6.18 C0,6.06 0.0576923077,5.88 0.173076923,5.76 L0.980769231,4.92 C1.21153846,4.68 1.55769231,4.68 1.78846154,4.92 L1.84615385,4.98 L5.01923077,8.52 C5.13461538,8.64 5.30769231,8.64 5.42307692,8.52 L13.1538462,0.18 L13.2121154,0.18 C13.4423077,-0.06 13.7890385,-0.06 14.0192308,0.18 L14.8269231,1.02 C15.0576923,1.26 15.0576923,1.62 14.8269231,1.86 L5.59615385,11.82 C5.48076923,11.94 5.36538462,12 5.19230769,12 C5.01923077,12 4.90384615,11.94 4.78846154,11.82 L0.288461538,6.78 L0.173076923,6.6 Z" id="s-Image_4-Fill-1"></path>\
+                        </g>\
+                    </g>\
+                </g>\
+            </svg>\
+        </div>\
+        <div id="s-Paragraph_9" class="pie richtext autofit firer ie-background commentable non-processed"   datasizewidth="139px" datasizeheight="54px" dataX="677" dataY="326" >\
+          <div class="backgroundLayer"></div>\
+          <div class="paddingLayer">\
+            <div class="clipping">\
+              <div class="content">\
+                <div class="valign">\
+                  <span id="rtr-s-Paragraph_9_0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. </span>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+        <div id="s-Paragraph_10" class="pie richtext autofit firer click ie-background commentable non-processed"   datasizewidth="99px" datasizeheight="30px" dataX="680" dataY="285" >\
+          <div class="backgroundLayer"></div>\
+          <div class="paddingLayer">\
+            <div class="clipping">\
+              <div class="content">\
+                <div class="valign">\
+                  <span id="rtr-s-Paragraph_10_0">REQUISITO APRENDIZAJE 4</span>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+      </div>\
+\
+      </div>\
+      <div id="loadMark"></div>\
+    </div>  \
+</div>\
+';
+document.getElementById("chromeTransfer").innerHTML = content;
